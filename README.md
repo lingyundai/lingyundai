@@ -16,4 +16,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lingyundai&show_icons=true&theme=radical&count_private=true" alt="lingyundai" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingyundai&layout=compact&theme=radical" alt="lingyundai" height="165">
 </p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=lingyundai.lingyundai">
