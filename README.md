@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/lingyundai/lingyundai/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
@@ -8,8 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=2&unique=false" alt="Spotify recently played"  />
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22habhfpwz2pizmrwrx2hfypy)
 
 ###
