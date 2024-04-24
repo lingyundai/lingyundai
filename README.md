@@ -5,7 +5,7 @@
 </div>
 
 ###
-
+<div align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22habhfpwz2pizmrwrx2hfypy)
-
+</div>
 ###
