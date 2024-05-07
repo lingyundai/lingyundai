@@ -1,3 +1,9 @@
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lingyundai&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=nord&hide_border=true&order=2" height="111" alt="languages graph"  />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lingyundai&theme=nord&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lingyundai&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lingyundai&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lingyundai&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
