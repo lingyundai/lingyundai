@@ -8,14 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lingyundai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lingyundai/lingyundai/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/lingyun-dai/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
