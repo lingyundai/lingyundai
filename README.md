@@ -11,9 +11,6 @@ Hi, I'm Lin! I am currently pursing a master's degree in Data Mining at George M
 ![](https://github-readme-stats.vercel.app/api?username=lingyundai&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lingyundai&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lingyundai&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github-readme-stats.vercel.app/api?username=lingyundai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://streak-stats.demolab.com?user=lingyundai&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lingyundai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="150" alt="languages graph"  />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lingyundai&theme=nord&no-frame=true&no-bg=false&margin-w=4)
