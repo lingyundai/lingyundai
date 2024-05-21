@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Lin! I am currently pursing a master's degree in Data Mining at George Mason University (https://csrankings.org/#/index?all&us)<br>I am a full-stack developer and ML engineer.<br>Check out my protfolio and my projects!
 
 
