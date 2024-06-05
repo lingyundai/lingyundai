@@ -1,5 +1,5 @@
 
-ABout me: 
+About me: 
 https://lingyundai-protfolio.vercel.app/
 
 ![](https://github-readme-stats.vercel.app/api?username=lingyundai&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
