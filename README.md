@@ -7,5 +7,5 @@ https://lingyundai-protfolio.vercel.app/
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lingyundai&icon=0&color=1)](https://visitcount.itsvg.in)
+When in doubt, read the doc.
 
