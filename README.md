@@ -1,12 +1,9 @@
-linkedin: https://www.linkedin.com/in/lingyun-dai/
-<br>
 protfolio: https://lingyundai-protfolio.vercel.app/
 <br>
 blog: https://lingyundai.hashnode.dev/
 <br>
 medium: https://medium.com/@lingyundai7
 <br>
-leetcode: https://leetcode.com/u/lingyundaiseven/
 
 stats:
 <br>
