@@ -6,7 +6,7 @@ blog: https://lingyundai.hashnode.dev/
 <br>
 medium: https://medium.com/@lingyundai7
 <br>
-leetcode: 
+leetcode: https://leetcode.com/u/lingyundaiseven/
 
 stats:
 <br>
