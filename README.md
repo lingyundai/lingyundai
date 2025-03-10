@@ -69,7 +69,7 @@ As a **Graduate Professional Assistant** at George Mason University, I'm focusin
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### Problem Solving
-![LeetCode Stats](https://leetcard.jacoblin.cool/lingyundai?theme=dark&font=Arapey&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/lingyundaiseven?theme=dark&font=Arapey&ext=contest)
 
 ## Connect with me:
 <p align="center">
