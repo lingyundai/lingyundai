@@ -79,7 +79,7 @@ As a **Graduate Professional Assistant** at George Mason University, I'm focusin
   <a href="mailto:7dailingy@gmail.com">
     <img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />
   </a>
-  <a href="https://leetcode.com/lingyundai/">
+  <a href="https://leetcode.com/lingyundaiseven/">
     <img src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white&color=black" />
   </a>
 </p>
