@@ -69,7 +69,6 @@ As a **Graduate Professional Assistant** at George Mason University, I'm focusin
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Connect with me:
-
 <p align="center">
   <a href="https://linkedin.com/in/lingyun-dai">
     <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />
@@ -79,5 +78,8 @@ As a **Graduate Professional Assistant** at George Mason University, I'm focusin
   </a>
   <a href="mailto:7dailingy@gmail.com">
     <img src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />
+  </a>
+  <a href="https://leetcode.com/lingyundai/">
+    <img src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white&color=black" />
   </a>
 </p>
