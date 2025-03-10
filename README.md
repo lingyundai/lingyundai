@@ -68,6 +68,9 @@ As a **Graduate Professional Assistant** at George Mason University, I'm focusin
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+#### Problem Solving
+![LeetCode Stats](https://leetcard.jacoblin.cool/lingyundai?theme=dark&font=Arapey&ext=contest)
+
 ## Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/lingyun-dai">
