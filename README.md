@@ -1,6 +1,6 @@
 # Hi, I'm Lin Dai 👋
 
-👨‍💻 **Software Engineer** | 🚀 **Data Integration Specialist** | 🌐 **Full Stack Developer**
+👨‍💻 **Software Engineer** | 🌐 **Full Stack Developer**
 
 ### About Me
 
